@@ -1,1 +1,6 @@
 streamlit==1.26.0
+matplotlib
+networkx
+pandas
+numpy
+seaborn
